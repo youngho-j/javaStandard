@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Arrays_5_18_20 {
+public class Arrays_5_18_23 {
 	public static void main(String[] args) throws IOException {
 		/*
 		 * 18. 2차원 배열 
